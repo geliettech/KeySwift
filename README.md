@@ -1,6 +1,10 @@
 # KeySwift
 
-KeySwift is an **AI-driven web application** that leverages **React**, **Chakra UI**, and the **OpenAI API** to automatically extract relevant keywords from text. It streamlines **content analysis and SEO optimization**, helping users save time while enhancing the quality and performance of their content.
+## 🔎 About KeySwift
+
+**KeySwift** is an **AI-powered keyword extraction tool** designed to help content creators, marketers, and developers unlock the full potential of their text. By combining the intelligence of the **OpenAI API** with a sleek, responsive **React + Chakra UI** interface, KeySwift transforms raw content into **actionable insights**.
+
+Whether you're optimizing blog posts for SEO, analyzing documents, or improving readability, KeySwift ensures you get the **right keywords, faster and smarter**.
 
 ---
 
@@ -18,8 +22,8 @@ KeySwift is an **AI-driven web application** that leverages **React**, **Chakra 
 
 * **Frontend:** React, Chakra UI
 * **AI Engine:** OpenAI API
-* **Language:** JavaScript / TypeScript (depending on your implementation)
-* **Build Tools:** Vite / Create React App / Next.js (choose what you used)
+* **Language:** JavaScript / TypeScript
+* **Build Tools:** Vite / Create React App / Next.js
 
 ---
 
@@ -111,4 +115,3 @@ This project is licensed under the **MIT License** – feel free to use and modi
 * [React](https://react.dev/)
 * [Chakra UI](https://chakra-ui.com/)
 * [OpenAI](https://platform.openai.com/)
-
