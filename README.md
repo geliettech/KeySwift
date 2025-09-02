@@ -1,3 +1,6 @@
+
+---
+
 # KeySwift
 
 ## 🔎 About KeySwift
@@ -15,6 +18,16 @@ Whether you're optimizing blog posts for SEO, analyzing documents, or improving 
 * 🎨 **Modern UI** – Built with **Chakra UI** for a responsive and accessible design.
 * 🤖 **OpenAI Integration** – Uses advanced AI models to understand text beyond simple word frequency.
 * 📊 **SEO-Friendly Insights** – Helps optimize content for better search engine performance.
+
+---
+
+## 🌐 Live Demo
+
+Check out the live version of **KeySwift** here:
+
+👉 [Live Demo](https://your-deployment-link.com)
+
+*(Replace with your actual deployed link – e.g., Vercel, Netlify, or GitHub Pages.)*
 
 ---
 
@@ -115,3 +128,5 @@ This project is licensed under the **MIT License** – feel free to use and modi
 * [React](https://react.dev/)
 * [Chakra UI](https://chakra-ui.com/)
 * [OpenAI](https://platform.openai.com/)
+
+---
